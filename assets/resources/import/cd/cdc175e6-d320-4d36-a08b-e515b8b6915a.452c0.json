@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "f4FYZhB0xPnqqfbAI8+i6P"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "loot-chest-02",
+      "rect": [
+        138,
+        23,
+        406,
+        636
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        682,
+        682
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

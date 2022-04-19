@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "64yJqvAv1ED6eedw/8U8UU"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "loot-helmet-01",
+      "rect": [
+        42,
+        69,
+        598,
+        544
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        682,
+        682
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

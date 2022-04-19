@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "d6sHlhyuxOrY/xhD4hUmay"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "avatar",
+      "rect": [
+        84,
+        48,
+        344,
+        420
+      ],
+      "offset": [
+        0,
+        -2
+      ],
+      "originalSize": [
+        512,
+        512
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "fciIIjk8dC55mFO8cx4K5l"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "loot-pack-03",
+      "rect": [
+        65,
+        38,
+        553,
+        607
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        683,
+        683
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]
