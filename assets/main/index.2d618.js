@@ -7062,7 +7062,7 @@ window.__require = function e(t, n, r) {
     var EventHandler_1 = require("../Utils/EventHandler");
     var NakamaManager = function() {
       function NakamaManager() {
-        this.connectionData = new NakamaConnectionData_1.default("survival2d.cf", "7350", "defaultkey", true);
+        this.connectionData = new NakamaConnectionData_1.default("survival2d.live", "7350", "defaultkey", true);
         this.client = null;
         this.session = null;
         this.socket = null;
